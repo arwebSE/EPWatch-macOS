@@ -15,39 +15,18 @@
 		260787CA28D88A3900FF2C33 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 260787C828D88A3900FF2C33 /* Localizable.strings */; };
 		260787D828D88FFB00FF2C33 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 260787C528D88A3900FF2C33 /* InfoPlist.strings */; };
 		260787D928D88FFB00FF2C33 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 260787C828D88A3900FF2C33 /* Localizable.strings */; };
-		260787DA28D88FFC00FF2C33 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 260787C528D88A3900FF2C33 /* InfoPlist.strings */; };
-		260787DB28D88FFC00FF2C33 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 260787C828D88A3900FF2C33 /* Localizable.strings */; };
-		260787DC28D88FFC00FF2C33 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 260787C528D88A3900FF2C33 /* InfoPlist.strings */; };
-		260787DD28D88FFC00FF2C33 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 260787C828D88A3900FF2C33 /* Localizable.strings */; };
-		2612513B29127047003D9C15 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2696879128D1CD91002142BF /* SettingsView.swift */; };
-		261FC1A028B77720007B4A4E /* EPWatchKitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 261FC19F28B77720007B4A4E /* EPWatchKitApp.swift */; };
-		261FC1A428B77720007B4A4E /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 261FC1A328B77720007B4A4E /* NotificationController.swift */; };
-		261FC1A628B77720007B4A4E /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 261FC1A528B77720007B4A4E /* NotificationView.swift */; };
 		264E989528DB2BA600E02F65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2696881A28D477EE002142BF /* Assets.xcassets */; };
-		264E989628DB2BA600E02F65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2696881A28D477EE002142BF /* Assets.xcassets */; };
-		264E989728DB2BA600E02F65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2696881A28D477EE002142BF /* Assets.xcassets */; };
 		265733312907291700CE9A4C /* StateInfoFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265733302907291700CE9A4C /* StateInfoFooterView.swift */; };
-		2674BC6428D0572D00E31A20 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2674BC6328D0572D00E31A20 /* WidgetKit.framework */; };
-		2674BC6628D0572D00E31A20 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2674BC6528D0572D00E31A20 /* SwiftUI.framework */; };
-		2674BC6F28D0572E00E31A20 /* EPWatchKitAppExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 2674BC6228D0572D00E31A20 /* EPWatchKitAppExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		2690400928D5DA4100A823F5 /* EPWatchKitApp.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 261FC18F28B7771F007B4A4E /* EPWatchKitApp.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		2696879028D10112002142BF /* PriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2696878F28D10112002142BF /* PriceView.swift */; };
-		2696879A28D26CD0002142BF /* PriceAreaSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2696879928D26CD0002142BF /* PriceAreaSettingsView.swift */; };
 		2696881728D477ED002142BF /* EPWatchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2696881628D477ED002142BF /* EPWatchApp.swift */; };
 		2696883128D47C4B002142BF /* PriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2696883028D47C4B002142BF /* PriceView.swift */; };
 		2696883428D4801F002142BF /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2696883228D47F3B002142BF /* SettingsView.swift */; };
-		26A6F68229199BE4006C3FFD /* EPWatchKitAppExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2674BC6828D0572D00E31A20 /* EPWatchKitAppExtension.swift */; };
 		26AC446529112D5D00B86B1E /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26AC446429112D5D00B86B1E /* CircularProgressView.swift */; };
 		26AC447229126B6400B86B1E /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2696881828D477ED002142BF /* RootView.swift */; };
-		26AC447329126EFD00B86B1E /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 261FC1A128B77720007B4A4E /* RootView.swift */; };
 		26C082D0292576160065DEFE /* EPWatchCore in Frameworks */ = {isa = PBXBuildFile; productRef = 26C082CF292576160065DEFE /* EPWatchCore */; };
 		26C082D2292576200065DEFE /* EPWatchCore in Frameworks */ = {isa = PBXBuildFile; productRef = 26C082D1292576200065DEFE /* EPWatchCore */; };
-		26C082D4292576270065DEFE /* EPWatchCore in Frameworks */ = {isa = PBXBuildFile; productRef = 26C082D3292576270065DEFE /* EPWatchCore */; };
-		26C082D62925762E0065DEFE /* EPWatchCore in Frameworks */ = {isa = PBXBuildFile; productRef = 26C082D52925762E0065DEFE /* EPWatchCore */; };
 		26EC4A1428D9C52C004DD8EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2696881A28D477EE002142BF /* Assets.xcassets */; };
 		26F28FDC2910778300D42DFB /* SupportSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F28FDA2910778300D42DFB /* SupportSettingsView.swift */; };
 		26F28FDD2910778300D42DFB /* ShareLogsState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F28FDB2910778300D42DFB /* ShareLogsState.swift */; };
-		26F28FDF2910782000D42DFB /* HostCommunicationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F28FDE2910781F00D42DFB /* HostCommunicationManager.swift */; };
 		26F28FE5291078B800D42DFB /* ActivityView in Frameworks */ = {isa = PBXBuildFile; productRef = 26F28FE4291078B800D42DFB /* ActivityView */; };
 /* End PBXBuildFile section */
 
@@ -58,20 +37,6 @@
 			proxyType = 1;
 			remoteGlobalIDString = 2607879D28D70B8C00FF2C33;
 			remoteInfo = EPWatchWidgetExtensionExtension;
-		};
-		2674BC6D28D0572E00E31A20 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 261FC18528B7771F007B4A4E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 2674BC6128D0572D00E31A20;
-			remoteInfo = "EPWatch ComplicationsExtension";
-		};
-		2690400A28D5DA4100A823F5 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 261FC18528B7771F007B4A4E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 261FC18E28B7771F007B4A4E;
-			remoteInfo = EPWatchKitApp;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -87,39 +52,17 @@
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2674BC7028D0572E00E31A20 /* Embed Foundation Extensions */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 13;
-			files = (
-				2674BC6F28D0572E00E31A20 /* EPWatchKitAppExtension.appex in Embed Foundation Extensions */,
-			);
-			name = "Embed Foundation Extensions";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		2690400C28D5DA4100A823F5 /* Embed Watch Content */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
 			dstSubfolderSpec = 16;
 			files = (
-				2690400928D5DA4100A823F5 /* EPWatchKitApp.app in Embed Watch Content */,
 			);
 			name = "Embed Watch Content";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		2696882F28D478C3002142BF /* Embed Frameworks */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-			);
-			name = "Embed Frameworks";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		26A6F72B291BB363006C3FFD /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
@@ -139,7 +82,6 @@
 		260787C628D88A3900FF2C33 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		260787C928D88A3900FF2C33 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
 		260787E028D8922C00FF2C33 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		261FC18F28B7771F007B4A4E /* EPWatchKitApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EPWatchKitApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		261FC19F28B77720007B4A4E /* EPWatchKitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPWatchKitApp.swift; sourceTree = "<group>"; };
 		261FC1A128B77720007B4A4E /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
 		261FC1A328B77720007B4A4E /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
@@ -147,7 +89,6 @@
 		261FC1AC28B77721007B4A4E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		261FC1AF28B77721007B4A4E /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
 		265733302907291700CE9A4C /* StateInfoFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateInfoFooterView.swift; sourceTree = "<group>"; };
-		2674BC6228D0572D00E31A20 /* EPWatchKitAppExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = EPWatchKitAppExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		2674BC6328D0572D00E31A20 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		2674BC6528D0572D00E31A20 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		2674BC6828D0572D00E31A20 /* EPWatchKitAppExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPWatchKitAppExtension.swift; sourceTree = "<group>"; };
@@ -157,7 +98,6 @@
 		2696879928D26CD0002142BF /* PriceAreaSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceAreaSettingsView.swift; sourceTree = "<group>"; };
 		2696879B28D3A126002142BF /* EPWatchKitApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EPWatchKitApp.entitlements; sourceTree = "<group>"; };
 		2696879C28D3A164002142BF /* EPWatchKitAppExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EPWatchKitAppExtension.entitlements; sourceTree = "<group>"; };
-		2696879F28D3A5D0002142BF /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS9.0.sdk/System/Library/Frameworks/WidgetKit.framework; sourceTree = DEVELOPER_DIR; };
 		2696880C28D47422002142BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2696881428D477EC002142BF /* EPWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EPWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2696881628D477ED002142BF /* EPWatchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPWatchApp.swift; sourceTree = "<group>"; };
@@ -183,24 +123,6 @@
 				26C082D2292576200065DEFE /* EPWatchCore in Frameworks */,
 				260787A028D70B8C00FF2C33 /* SwiftUI.framework in Frameworks */,
 				2607879F28D70B8C00FF2C33 /* WidgetKit.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		261FC19728B77720007B4A4E /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				26C082D4292576270065DEFE /* EPWatchCore in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		2674BC5F28D0572D00E31A20 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				26C082D62925762E0065DEFE /* EPWatchCore in Frameworks */,
-				2674BC6628D0572D00E31A20 /* SwiftUI.framework in Frameworks */,
-				2674BC6428D0572D00E31A20 /* WidgetKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,8 +183,6 @@
 		261FC18C28B7771F007B4A4E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				261FC18F28B7771F007B4A4E /* EPWatchKitApp.app */,
-				2674BC6228D0572D00E31A20 /* EPWatchKitAppExtension.appex */,
 				2696881428D477EC002142BF /* EPWatch.app */,
 				2607879E28D70B8C00FF2C33 /* EPWatchWidgetExtension.appex */,
 			);
@@ -391,7 +311,6 @@
 			isa = PBXGroup;
 			children = (
 				2674BC6328D0572D00E31A20 /* WidgetKit.framework */,
-				2696879F28D3A5D0002142BF /* WidgetKit.framework */,
 				2674BC6528D0572D00E31A20 /* SwiftUI.framework */,
 			);
 			name = Frameworks;
@@ -431,53 +350,6 @@
 			productReference = 2607879E28D70B8C00FF2C33 /* EPWatchWidgetExtension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
-		261FC18E28B7771F007B4A4E /* EPWatchKitApp */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 261FC1B628B77721007B4A4E /* Build configuration list for PBXNativeTarget "EPWatchKitApp" */;
-			buildPhases = (
-				261FC18D28B7771F007B4A4E /* Resources */,
-				261FC19628B77720007B4A4E /* Sources */,
-				261FC19728B77720007B4A4E /* Frameworks */,
-				2674BC7028D0572E00E31A20 /* Embed Foundation Extensions */,
-				26A6F72B291BB363006C3FFD /* Embed Frameworks */,
-				26DAC0BC29026F890079F66A /* Entsoe Security Token */,
-				261C7C9E293FCFE7005618D8 /* Add git commit hash to plist */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				2674BC6E28D0572E00E31A20 /* PBXTargetDependency */,
-			);
-			name = EPWatchKitApp;
-			packageProductDependencies = (
-				26C082D3292576270065DEFE /* EPWatchCore */,
-			);
-			productName = "EPWatch WatchKit App";
-			productReference = 261FC18F28B7771F007B4A4E /* EPWatchKitApp.app */;
-			productType = "com.apple.product-type.application";
-		};
-		2674BC6128D0572D00E31A20 /* EPWatchKitAppExtension */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 2674BC7328D0572E00E31A20 /* Build configuration list for PBXNativeTarget "EPWatchKitAppExtension" */;
-			buildPhases = (
-				2674BC5E28D0572D00E31A20 /* Sources */,
-				2674BC5F28D0572D00E31A20 /* Frameworks */,
-				2674BC6028D0572D00E31A20 /* Resources */,
-				2645EFB52917C0D10034C1E6 /* Entsoe Security Token */,
-				261C7C9F293FD018005618D8 /* Add git commit hash to plist */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = EPWatchKitAppExtension;
-			packageProductDependencies = (
-				26C082D52925762E0065DEFE /* EPWatchCore */,
-			);
-			productName = "EPWatch ComplicationsExtension";
-			productReference = 2674BC6228D0572D00E31A20 /* EPWatchKitAppExtension.appex */;
-			productType = "com.apple.product-type.app-extension";
-		};
 		2696881328D477EC002142BF /* EPWatch */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2696881F28D477EE002142BF /* Build configuration list for PBXNativeTarget "EPWatch" */;
@@ -494,7 +366,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				2690400B28D5DA4100A823F5 /* PBXTargetDependency */,
 				260787A828D70B8D00FF2C33 /* PBXTargetDependency */,
 			);
 			name = EPWatch;
@@ -517,12 +388,6 @@
 				LastUpgradeCheck = 1410;
 				TargetAttributes = {
 					2607879D28D70B8C00FF2C33 = {
-						CreatedOnToolsVersion = 14.0;
-					};
-					261FC18E28B7771F007B4A4E = {
-						CreatedOnToolsVersion = 13.4.1;
-					};
-					2674BC6128D0572D00E31A20 = {
 						CreatedOnToolsVersion = 14.0;
 					};
 					2696881328D477EC002142BF = {
@@ -552,8 +417,6 @@
 			targets = (
 				2696881328D477EC002142BF /* EPWatch */,
 				2607879D28D70B8C00FF2C33 /* EPWatchWidgetExtension */,
-				261FC18E28B7771F007B4A4E /* EPWatchKitApp */,
-				2674BC6128D0572D00E31A20 /* EPWatchKitAppExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -566,26 +429,6 @@
 				260787D928D88FFB00FF2C33 /* Localizable.strings in Resources */,
 				264E989528DB2BA600E02F65 /* Assets.xcassets in Resources */,
 				260787D828D88FFB00FF2C33 /* InfoPlist.strings in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		261FC18D28B7771F007B4A4E /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				260787DB28D88FFC00FF2C33 /* Localizable.strings in Resources */,
-				264E989628DB2BA600E02F65 /* Assets.xcassets in Resources */,
-				260787DA28D88FFC00FF2C33 /* InfoPlist.strings in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		2674BC6028D0572D00E31A20 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				260787DD28D88FFC00FF2C33 /* Localizable.strings in Resources */,
-				264E989728DB2BA600E02F65 /* Assets.xcassets in Resources */,
-				260787DC28D88FFC00FF2C33 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -638,63 +481,7 @@
 			shellPath = /bin/sh;
 			shellScript = "/usr/libexec/PlistBuddy -c \"Set :GitCommitHash `git describe --match=NeVeRmAtCh --always --abbrev=7 --dirty`\" \"${TARGET_BUILD_DIR}\"/\"${INFOPLIST_PATH}\"\n";
 		};
-		261C7C9E293FCFE7005618D8 /* Add git commit hash to plist */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-			);
-			name = "Add git commit hash to plist";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "/usr/libexec/PlistBuddy -c \"Set :GitCommitHash `git describe --match=NeVeRmAtCh --always --abbrev=7 --dirty`\" \"${TARGET_BUILD_DIR}\"/\"${INFOPLIST_PATH}\"\n";
-		};
-		261C7C9F293FD018005618D8 /* Add git commit hash to plist */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-			);
-			name = "Add git commit hash to plist";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "/usr/libexec/PlistBuddy -c \"Set :GitCommitHash `git describe --match=NeVeRmAtCh --always --abbrev=7 --dirty`\" \"${TARGET_BUILD_DIR}\"/\"${INFOPLIST_PATH}\"\n";
-		};
 		2645EFB42917C0C90034C1E6 /* Entsoe Security Token */ = {
-			isa = PBXShellScriptBuildPhase;
-			alwaysOutOfDate = 1;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"$(TARGET_BUILD_DIR)/$(INFOPLIST_PATH)",
-			);
-			name = "Entsoe Security Token";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "# Look for a file named '.security_token' next to this .xcodeproj file\ntoken_file=.security_token\ntoken=\"$(cat $token_file 2>/dev/null)\"\nif [ \"$token\" ]; then\n  plutil -replace EntsoeSecurityToken -string $token \"$TARGET_BUILD_DIR/$INFOPLIST_PATH\"\nelse\n  echo \"error: Missing entsoe security token. Get a security token from <https://transparency.entsoe.eu/usrm/user/myAccountSettings>, then create a new file at $token_file that contains the security token.\"\nfi\n";
-		};
-		2645EFB52917C0D10034C1E6 /* Entsoe Security Token */ = {
 			isa = PBXShellScriptBuildPhase;
 			alwaysOutOfDate = 1;
 			buildActionMask = 2147483647;
@@ -734,26 +521,6 @@
 			shellPath = /bin/sh;
 			shellScript = "# Look for a file named '.security_token' next to this .xcodeproj file\ntoken_file=.security_token\ntoken=\"$(cat $token_file 2>/dev/null)\"\nif [ \"$token\" ]; then\n  plutil -replace EntsoeSecurityToken -string $token \"$TARGET_BUILD_DIR/$INFOPLIST_PATH\"\nelse\n  echo \"error: Missing entsoe security token. Get a security token from <https://transparency.entsoe.eu/usrm/user/myAccountSettings>, then create a new file at $token_file that contains the security token.\"\nfi\n";
 		};
-		26DAC0BC29026F890079F66A /* Entsoe Security Token */ = {
-			isa = PBXShellScriptBuildPhase;
-			alwaysOutOfDate = 1;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"$(TARGET_BUILD_DIR)/$(INFOPLIST_PATH)",
-			);
-			name = "Entsoe Security Token";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "# Look for a file named '.security_token' next to this .xcodeproj file\ntoken_file=.security_token\ntoken=\"$(cat $token_file 2>/dev/null)\"\nif [ \"$token\" ]; then\n  plutil -replace EntsoeSecurityToken -string $token \"$TARGET_BUILD_DIR/$INFOPLIST_PATH\"\nelse\n  echo \"error: Missing entsoe security token. Get a security token from <https://transparency.entsoe.eu/usrm/user/myAccountSettings>, then create a new file at $token_file that contains the security token.\"\nfi\n";
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -762,29 +529,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				260787A328D70B8C00FF2C33 /* EPWatchWidgetExtension.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		261FC19628B77720007B4A4E /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				26AC447329126EFD00B86B1E /* RootView.swift in Sources */,
-				2612513B29127047003D9C15 /* SettingsView.swift in Sources */,
-				26F28FDF2910782000D42DFB /* HostCommunicationManager.swift in Sources */,
-				261FC1A428B77720007B4A4E /* NotificationController.swift in Sources */,
-				261FC1A028B77720007B4A4E /* EPWatchKitApp.swift in Sources */,
-				261FC1A628B77720007B4A4E /* NotificationView.swift in Sources */,
-				2696879028D10112002142BF /* PriceView.swift in Sources */,
-				2696879A28D26CD0002142BF /* PriceAreaSettingsView.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		2674BC5E28D0572D00E31A20 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				26A6F68229199BE4006C3FFD /* EPWatchKitAppExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -810,16 +554,6 @@
 			isa = PBXTargetDependency;
 			target = 2607879D28D70B8C00FF2C33 /* EPWatchWidgetExtension */;
 			targetProxy = 260787A728D70B8D00FF2C33 /* PBXContainerItemProxy */;
-		};
-		2674BC6E28D0572E00E31A20 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 2674BC6128D0572D00E31A20 /* EPWatchKitAppExtension */;
-			targetProxy = 2674BC6D28D0572E00E31A20 /* PBXContainerItemProxy */;
-		};
-		2690400B28D5DA4100A823F5 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 261FC18E28B7771F007B4A4E /* EPWatchKitApp */;
-			targetProxy = 2690400A28D5DA4100A823F5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -855,7 +589,7 @@
 				DEVELOPMENT_TEAM = MDUSC5XAF4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = EPWatchWidgetExtension/Resources/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Electricity price";
+				INFOPLIST_KEY_CFBundleDisplayName = "Electricity Price";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -863,9 +597,10 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.8;
-				PRODUCT_BUNDLE_IDENTIFIER = se.j0nas.EPWatch.widgetextension;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.arweb.EPWMac.widgetextension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -883,7 +618,7 @@
 				DEVELOPMENT_TEAM = MDUSC5XAF4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = EPWatchWidgetExtension/Resources/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Electricity price";
+				INFOPLIST_KEY_CFBundleDisplayName = "Electricity Price";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -891,9 +626,10 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.8;
-				PRODUCT_BUNDLE_IDENTIFIER = se.j0nas.EPWatch.widgetextension;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.arweb.EPWMac.widgetextension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1018,138 +754,6 @@
 			};
 			name = Release;
 		};
-		261FC1B728B77721007B4A4E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = EPWatchKitApp/Resources/EPWatchKitApp.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MDUSC5XAF4;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = EPWatchKitApp/Resources/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Electricity price";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = se.j0nas.EPWatch;
-				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.8;
-				PRODUCT_BUNDLE_IDENTIFIER = se.j0nas.EPWatch.watchkitapp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 9.1;
-			};
-			name = Debug;
-		};
-		261FC1B828B77721007B4A4E /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = EPWatchKitApp/Resources/EPWatchKitApp.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MDUSC5XAF4;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = EPWatchKitApp/Resources/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Electricity price";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = se.j0nas.EPWatch;
-				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.8;
-				PRODUCT_BUNDLE_IDENTIFIER = se.j0nas.EPWatch.watchkitapp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 9.1;
-			};
-			name = Release;
-		};
-		2674BC7128D0572E00E31A20 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
-				CODE_SIGN_ENTITLEMENTS = EPWatchKitAppExtension/Resources/EPWatchKitAppExtension.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MDUSC5XAF4;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = EPWatchKitAppExtension/Resources/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Electricity price";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-					"@executable_path/../../../../Frameworks",
-				);
-				MARKETING_VERSION = 1.8;
-				PRODUCT_BUNDLE_IDENTIFIER = se.j0nas.EPWatch.watchkitapp.extension;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 9.1;
-			};
-			name = Debug;
-		};
-		2674BC7228D0572E00E31A20 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
-				CODE_SIGN_ENTITLEMENTS = EPWatchKitAppExtension/Resources/EPWatchKitAppExtension.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MDUSC5XAF4;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = EPWatchKitAppExtension/Resources/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Electricity price";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-					"@executable_path/../../../../Frameworks",
-				);
-				MARKETING_VERSION = 1.8;
-				PRODUCT_BUNDLE_IDENTIFIER = se.j0nas.EPWatch.watchkitapp.extension;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 9.1;
-			};
-			name = Release;
-		};
 		2696882028D477EE002142BF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1160,11 +764,12 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"EPWatch/Preview Content\"";
-				DEVELOPMENT_TEAM = MDUSC5XAF4;
+				DEVELOPMENT_TEAM = 49HSY4SL2T;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = EPWatch/Resources/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Electricity price";
+				INFOPLIST_KEY_CFBundleDisplayName = "Electricity Price";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -1175,14 +780,14 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.8;
-				PRODUCT_BUNDLE_IDENTIFIER = se.j0nas.EPWatch;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.arweb.EPWMac;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 			};
 			name = Debug;
 		};
@@ -1196,11 +801,12 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"EPWatch/Preview Content\"";
-				DEVELOPMENT_TEAM = MDUSC5XAF4;
+				DEVELOPMENT_TEAM = 49HSY4SL2T;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = EPWatch/Resources/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Electricity price";
+				INFOPLIST_KEY_CFBundleDisplayName = "Electricity Price";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -1211,14 +817,14 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.8;
-				PRODUCT_BUNDLE_IDENTIFIER = se.j0nas.EPWatch;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.arweb.EPWMac;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 			};
 			name = Release;
 		};
@@ -1239,24 +845,6 @@
 			buildConfigurations = (
 				261FC1B028B77721007B4A4E /* Debug */,
 				261FC1B128B77721007B4A4E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		261FC1B628B77721007B4A4E /* Build configuration list for PBXNativeTarget "EPWatchKitApp" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				261FC1B728B77721007B4A4E /* Debug */,
-				261FC1B828B77721007B4A4E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		2674BC7328D0572E00E31A20 /* Build configuration list for PBXNativeTarget "EPWatchKitAppExtension" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				2674BC7128D0572E00E31A20 /* Debug */,
-				2674BC7228D0572E00E31A20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1313,14 +901,6 @@
 			productName = EPWatchCore;
 		};
 		26C082D1292576200065DEFE /* EPWatchCore */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = EPWatchCore;
-		};
-		26C082D3292576270065DEFE /* EPWatchCore */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = EPWatchCore;
-		};
-		26C082D52925762E0065DEFE /* EPWatchCore */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = EPWatchCore;
 		};
