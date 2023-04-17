@@ -1,4 +1,4 @@
-<h1 align="center">EPWatch MacOS</h1>
+<h1 align="center">EPWatch macOS</h1>
 
 <div align="center">
 <img alt="EPWatch" height="125" src="./Resources/Assets.xcassets/AppIcon.appiconset/icon.png">
