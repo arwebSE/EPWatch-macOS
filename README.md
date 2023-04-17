@@ -9,6 +9,9 @@ App displaying the current electricity price,<br> with widgets for macOS.
 </p>
 <br>
 
+## About
+This is a fork of [EPWatch](https://github.com/jonkan/EPWatch) with the aim to provide the same app but for macOS. 
+
 ## Download
 
 
