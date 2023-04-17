@@ -586,7 +586,7 @@
 				CODE_SIGN_ENTITLEMENTS = EPWatchWidgetExtension/Resources/EPWatchWidgetExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MDUSC5XAF4;
+				DEVELOPMENT_TEAM = 49HSY4SL2T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = EPWatchWidgetExtension/Resources/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Electricity Price";

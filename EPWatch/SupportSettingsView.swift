@@ -15,7 +15,7 @@ struct SupportSettingsView: View {
     @State private var logURLs: [URL]?
     @State private var logsActivityItem: ActivityItem?
     @State private var acknowledgeEmailCopied: Bool = false
-    private let supportEmail = "support@j0nas.se"
+    private let supportEmail = "support@arweb.dev"
 
     var body: some View {
         List {

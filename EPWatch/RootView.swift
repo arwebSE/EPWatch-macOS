@@ -9,11 +9,11 @@ import SwiftUI
 import EPWatchCore
 
 struct RootView: View {
-
+    
     @EnvironmentObject private var state: AppState
-
+    
     @State private var showsSettings: Bool = false
-
+    
     var body: some View {
         NavigationStack {
             List {
@@ -52,9 +52,15 @@ struct RootView: View {
                     }
                 }
             }
-            .navigationTitle("Electricity price")
             .toolbar {
                 ToolbarItemGroup(placement: .navigationBarTrailing) {
+                    Button(action: {
+                        Task {
+                            await refresh()
+                        }
+                    }, label: {
+                        Image(systemName: "arrow.clockwise")
+                    });
                     Button {
                         showsSettings = true
                     } label: {
@@ -69,16 +75,18 @@ struct RootView: View {
                     SettingsView()
                 }
             }
-            .refreshable {
-                do {
-                    try await state.updatePricesIfNeeded()
-                } catch {
-                    LogError(error)
-                }
-            }
         }
     }
-
+    
+    func refresh() async {
+        // Refresh action
+        do {
+            try await state.updatePricesIfNeeded()
+        } catch {
+            LogError(error)
+        }
+    }
+    
     func errorView(_ error: UserPresentableError) -> some View {
         VStack {
             Image(systemName: "x.circle")
@@ -92,7 +100,7 @@ struct RootView: View {
         .padding()
         .frame(maxWidth: .infinity)
     }
-
+    
 }
 
 struct RootView_Previews: PreviewProvider {
