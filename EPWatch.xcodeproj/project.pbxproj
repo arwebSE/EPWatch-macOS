@@ -82,23 +82,9 @@
 		260787C628D88A3900FF2C33 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		260787C928D88A3900FF2C33 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
 		260787E028D8922C00FF2C33 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		261FC19F28B77720007B4A4E /* EPWatchKitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPWatchKitApp.swift; sourceTree = "<group>"; };
-		261FC1A128B77720007B4A4E /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
-		261FC1A328B77720007B4A4E /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
-		261FC1A528B77720007B4A4E /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
-		261FC1AC28B77721007B4A4E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		261FC1AF28B77721007B4A4E /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
 		265733302907291700CE9A4C /* StateInfoFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateInfoFooterView.swift; sourceTree = "<group>"; };
 		2674BC6328D0572D00E31A20 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		2674BC6528D0572D00E31A20 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
-		2674BC6828D0572D00E31A20 /* EPWatchKitAppExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPWatchKitAppExtension.swift; sourceTree = "<group>"; };
-		2674BC6C28D0572E00E31A20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2696878F28D10112002142BF /* PriceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceView.swift; sourceTree = "<group>"; };
-		2696879128D1CD91002142BF /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
-		2696879928D26CD0002142BF /* PriceAreaSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceAreaSettingsView.swift; sourceTree = "<group>"; };
-		2696879B28D3A126002142BF /* EPWatchKitApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EPWatchKitApp.entitlements; sourceTree = "<group>"; };
-		2696879C28D3A164002142BF /* EPWatchKitAppExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EPWatchKitAppExtension.entitlements; sourceTree = "<group>"; };
-		2696880C28D47422002142BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2696881428D477EC002142BF /* EPWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EPWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2696881628D477ED002142BF /* EPWatchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPWatchApp.swift; sourceTree = "<group>"; };
 		2696881828D477ED002142BF /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
@@ -112,7 +98,6 @@
 		26AC446429112D5D00B86B1E /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
 		26F28FDA2910778300D42DFB /* SupportSettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SupportSettingsView.swift; sourceTree = "<group>"; };
 		26F28FDB2910778300D42DFB /* ShareLogsState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShareLogsState.swift; sourceTree = "<group>"; };
-		26F28FDE2910781F00D42DFB /* HostCommunicationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HostCommunicationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,8 +156,6 @@
 				26AA887329256FBB00BA2B02 /* Packages */,
 				2696881528D477ED002142BF /* EPWatch */,
 				260787A128D70B8C00FF2C33 /* EPWatchWidgetExtension */,
-				261FC19328B7771F007B4A4E /* EPWatchKitApp */,
-				2674BC6728D0572D00E31A20 /* EPWatchKitAppExtension */,
 				26C71B1928C1469D00C2DC59 /* Frameworks */,
 				261FC18C28B7771F007B4A4E /* Products */,
 				26EC4A1528D9C54E004DD8EB /* Resources */,
@@ -187,75 +170,6 @@
 				2607879E28D70B8C00FF2C33 /* EPWatchWidgetExtension.appex */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		261FC19328B7771F007B4A4E /* EPWatchKitApp */ = {
-			isa = PBXGroup;
-			children = (
-				261FC19F28B77720007B4A4E /* EPWatchKitApp.swift */,
-				26F28FDE2910781F00D42DFB /* HostCommunicationManager.swift */,
-				2674BC4428CF7CF900E31A20 /* Notifications */,
-				261FC1AB28B77721007B4A4E /* Preview Content */,
-				2696878F28D10112002142BF /* PriceView.swift */,
-				269687AA28D46FD7002142BF /* Resources */,
-				261FC1A128B77720007B4A4E /* RootView.swift */,
-				2696879828D26CBE002142BF /* Settings */,
-			);
-			path = EPWatchKitApp;
-			sourceTree = "<group>";
-		};
-		261FC1AB28B77721007B4A4E /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				261FC1AC28B77721007B4A4E /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		2674BC4428CF7CF900E31A20 /* Notifications */ = {
-			isa = PBXGroup;
-			children = (
-				261FC1A328B77720007B4A4E /* NotificationController.swift */,
-				261FC1A528B77720007B4A4E /* NotificationView.swift */,
-				261FC1AF28B77721007B4A4E /* PushNotificationPayload.apns */,
-			);
-			path = Notifications;
-			sourceTree = "<group>";
-		};
-		2674BC6728D0572D00E31A20 /* EPWatchKitAppExtension */ = {
-			isa = PBXGroup;
-			children = (
-				2674BC6828D0572D00E31A20 /* EPWatchKitAppExtension.swift */,
-				269687AB28D46FF3002142BF /* Resources */,
-			);
-			path = EPWatchKitAppExtension;
-			sourceTree = "<group>";
-		};
-		2696879828D26CBE002142BF /* Settings */ = {
-			isa = PBXGroup;
-			children = (
-				2696879928D26CD0002142BF /* PriceAreaSettingsView.swift */,
-				2696879128D1CD91002142BF /* SettingsView.swift */,
-			);
-			path = Settings;
-			sourceTree = "<group>";
-		};
-		269687AA28D46FD7002142BF /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				2696879B28D3A126002142BF /* EPWatchKitApp.entitlements */,
-				2696880C28D47422002142BF /* Info.plist */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		269687AB28D46FF3002142BF /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				2696879C28D3A164002142BF /* EPWatchKitAppExtension.entitlements */,
-				2674BC6C28D0572E00E31A20 /* Info.plist */,
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		2696881528D477ED002142BF /* EPWatch */ = {
@@ -447,6 +361,7 @@
 /* Begin PBXShellScriptBuildPhase section */
 		261C7C9C293FCF71005618D8 /* Add git commit hash to plist */ = {
 			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
 			buildActionMask = 2147483647;
 			files = (
 			);
@@ -465,6 +380,7 @@
 		};
 		261C7C9D293FCFD5005618D8 /* Add git commit hash to plist */ = {
 			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
 			buildActionMask = 2147483647;
 			files = (
 			);
@@ -598,6 +514,7 @@
 				);
 				MARKETING_VERSION = 1.8;
 				PRODUCT_BUNDLE_IDENTIFIER = dev.arweb.EPWMac.widgetextension;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = dev.arweb.EPWMac.widget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = YES;
@@ -615,7 +532,7 @@
 				CODE_SIGN_ENTITLEMENTS = EPWatchWidgetExtension/Resources/EPWatchWidgetExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MDUSC5XAF4;
+				DEVELOPMENT_TEAM = 49HSY4SL2T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = EPWatchWidgetExtension/Resources/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Electricity Price";
@@ -787,7 +704,7 @@
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,6";
+				TARGETED_DEVICE_FAMILY = "2,6";
 			};
 			name = Debug;
 		};
@@ -824,7 +741,7 @@
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,6";
+				TARGETED_DEVICE_FAMILY = "2,6";
 			};
 			name = Release;
 		};

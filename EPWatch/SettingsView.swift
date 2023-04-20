@@ -3,7 +3,7 @@
 //  EPWatchCore
 //
 //  Created by Jonas Bromö on 2022-09-16.
-//
+//  Modified by ARWeb on 2023-04-20.
 
 import SwiftUI
 import EPWatchCore
