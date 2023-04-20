@@ -14,7 +14,15 @@ This is a fork of [EPWatch](https://github.com/jonkan/EPWatch) with the aim to p
 
 ## Download
 
+Download the latest .app file here: https://github.com/arwebSE/EPWatch-macOS/releases/latest/download/EPWatch.app.zip
 
+## Installation
+
+Simply drag the `EPWatch` file into your `Applications` folder.
+
+You should now be able to launch the app from the Launchpad.
+
+You should also be able to find the app widget in your notifications view, when you click "Edit Widgets".
 
 ## Supported countries
 
